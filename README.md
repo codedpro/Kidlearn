@@ -13,7 +13,7 @@
 * **Progress Tracking**: Monitor student progress with detailed analytics and reports.
 * **Resource Library**: Access a vast collection of pre-made templates and educational resources.
 * **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-* **Dark Mode Support**: Seamless theme switching for user comfort.([GitHub][1])
+* **Dark Mode Support**: Seamless theme switching for user comfort.
 
 ---
 
@@ -42,8 +42,6 @@
    cd Kidlearn
    ```
 
-
-
 2. **Install dependencies**:
 
    ```bash
@@ -51,8 +49,6 @@
    # or
    yarn install
    ```
-
-
 
 3. **Run the development server**:
 
@@ -62,9 +58,7 @@
    yarn dev
    ```
 
-
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ---
 
@@ -81,8 +75,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 └── tailwind.config.js # Tailwind CSS configuration
 ```
 
-
-
 ---
 
 ## 🧪 Scripts
@@ -90,7 +82,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * `npm run dev` – Start the development server
 * `npm run build` – Build for production
 * `npm run start` – Start the production server
-* `npm run lint` – Run ESLint to analyze code quality([Behance][6])
+* `npm run lint` – Run ESLint to analyze code quality
 
 ---
 
@@ -101,4 +93,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 * [Embla Carousel](https://www.embla-carousel.com/) for smooth carousels
 * [Lucide Icons](https://lucide.dev/) for beautiful icons
 * [Zod](https://zod.dev/) for schema validation
-
