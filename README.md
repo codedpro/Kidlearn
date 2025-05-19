@@ -29,7 +29,7 @@
 * **Date Picker**: React Day Picker
 * **Authentication**: Input OTP
 * **State Management**: Next Themes
-* **Utilities**: clsx, class-variance-authority, tailwind-merge([Nicepage.com][2], [Dribbble][3], [The GitHub Blog][4], [GitHub][5])
+* **Utilities**: clsx, class-variance-authority, tailwind-merge
 
 ---
 
